@@ -1,16 +1,5 @@
-### Hi there 👋
+### Hola. 🧐👋
 
-<!--
-**GabrielRojas74/GabrielRojas74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 💻 Soy estudiante de Ingenieria de sistamas en la Universidad EAN 
-- 🌱 Me interesa todo lo relacionado con la tecnologia y la seguridad informatica
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Soy estudiante de Ingenieria de sistemas en la Universidad EAN 
+- 🖱 Me apasiona todo lo relacionado con la tecnologia 
+- 🔐 Quiero enfocarme en la ciberseguridad y desarrollo de software 
