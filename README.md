@@ -3,7 +3,6 @@
 <!--
 **GabrielRojas74/GabrielRojas74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 💻 Soy estudiante de Ingenieria de sistamas en la Universidad EAN 
 - 🌱 Me interesa todo lo relacionado con la tecnologia y la seguridad informatica
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
